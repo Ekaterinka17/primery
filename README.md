@@ -28,6 +28,8 @@ Git относится к распределенным системам конт
 1. Переходим по ссылке https://github.com/. 
 2. Регистрируем свою учетную запись. В поле для ввода почты вводим адрес своей почты и нажимаем на кнопку **Sign up for GitHub**.
 
+<image src="/images/registrazia_github.png" alt="Текст с описанием картинки">
+
 ![text](/images/registrazia_github.png)
 
 ## Установка Git на Windows (совместно с VS Code)
