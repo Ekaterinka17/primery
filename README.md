@@ -251,6 +251,11 @@ Git относится к распределенным системам конт
 1. Открываем раздел **Pull requests** в панеле навигации на Github.
 2. Нажимаем кнопку **New pull request**.
 3. Выбираем в поле **base** — *main*, **compare** — ветку, которую хотите мержить.
+
+<p align="center">
+  <img src="/images/pull_request.png" />
+</p>
+
 4. Нажимаем кнопку **Create pull request**.
 
 ## Сценарии работы с Git
