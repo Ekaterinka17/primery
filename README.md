@@ -249,7 +249,20 @@ Git относится к распределенным системам конт
   <img src="/images/pull_rekvest.png" />
 </p>
 
-Нажимаем кнопку **Compare & pull request**.
+1. Нажимаем кнопку **Compare & pull request**.
+2. Откроется страница **Open a pull request**. Заполняем поле **Add a title** и **Add a description**, нажимаем кнопку **Create pull request**
+
+<p align="center">
+  <img src="/images/create_pull_request.png" />
+</p>
+
+3. Откроется раздел слияния веток. 
+
+<p align="center">
+  <img src="/images/merge_git.png" />
+</p>
+
+4. Нажимаем кнопку **Merge pull request**
 
 **Второй способ**: 
 
