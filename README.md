@@ -256,7 +256,7 @@ Git относится к распределенным системам конт
   <img src="/images/create_pull_request.png" />
 </p>
 
-3. Откроется раздел слияния веток. 
+3. Откроется cтраница слияния веток. 
 
 <p align="center">
   <img src="/images/merge_git.png" />
