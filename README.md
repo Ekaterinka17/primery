@@ -81,7 +81,7 @@ Git относится к распределенным системам конт
 В рамках настоящей инструкции предполагается работа с Git толька на ОС Windows.
 
 1. Работать с Git будем через приложение Git bash. Скачайте программу Git по [ссылке](https://git-scm.com/downloads/win) и установите
-по [инструкции](https://tproger.ru/articles/ustanovka-git-na-windows). Для удобства работы с файлами .md будем запускать терминал Git bash из редактора кода Visual Studio Code (читать инструкцию по [ссылке] (https://github.com/Ekaterinka17/primery/blob/test_primery1/README_git.md)).
+по [инструкции](https://tproger.ru/articles/ustanovka-git-na-windows). Для удобства работы с файлами .md будем запускать терминал Git bash из редактора кода Visual Studio Code (читать инструкцию по [ссылке](https://github.com/Ekaterinka17/primery/blob/test_primery1/README_git.md)).
 
 1. Скачайте программу Visual Studio Code по [ссылке](https://code.visualstudio.com/). Установка стандартная, запустите установщик.
 
