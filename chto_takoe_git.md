@@ -1,6 +1,6 @@
 ---
 title: Что такое Git?
-permalink: /readme/
+permalink: /chto_takoe_git/
 ---
 
 ## Что такое Git?
