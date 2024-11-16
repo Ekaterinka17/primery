@@ -1,6 +1,7 @@
 lsi: false
 safe: true
 source: primery
+destination: ./_site
 incremental: false
 highlighter: rouge
 gist:
