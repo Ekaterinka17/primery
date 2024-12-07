@@ -9,10 +9,6 @@ url: "https://Ekaterinka17.github.io" # the base hostname & protocol for your si
 twitter_username: jekyllrb
 github_username:  jekyll
 
+# Build settings
 markdown: kramdown
 permalink: /:title:output_ext
-
-# Build settings
-theme: minima
-plugins:
-  - jekyll-feed
