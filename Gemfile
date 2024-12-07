@@ -1,1 +1,1 @@
-gem "minima"
+gem "just-the-docs"
