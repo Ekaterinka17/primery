@@ -1,3 +1,8 @@
+---
+title: FAQ?
+permalink: /faq/
+---
+
 ## FAQ
 
 ### Ошибка директории
