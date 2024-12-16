@@ -1,12 +1,13 @@
-title: Руководство по Git
-email: katyunya.aleksandrovna.97@gmail.com
+title: Your awesome title
+email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  В руководстве по Git приведено описание по установке, развертыванию и
-  использованию данного инструмента техническим писателем.
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
 baseurl: "primery" # the subpath of your site, e.g. /blog
 url: "https://Ekaterinka17.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-telegram: https://t.me/kettic17
-github_username: Ekaterinka17
+twitter_username: jekyllrb
+github_username:  jekyll
 
 # Build settings
 markdown: kramdown
