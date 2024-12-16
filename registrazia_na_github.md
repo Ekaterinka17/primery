@@ -1,4 +1,7 @@
-## Регистрация на GitHub
+---
+title: Регистрация на GitHub
+permalink: /registrazia_na_github/
+---
 
 ### Создание аккаунта на GitHub
 1. Перейдите по [ссылке](https://github.com/). 
