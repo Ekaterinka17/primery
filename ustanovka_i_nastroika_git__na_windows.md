@@ -1,4 +1,8 @@
-## Установка и настройка Git на Windows (совместно с VS Code)
+---
+title: Установка и настройка Git на Windows (совместно с VS Code)
+permalink: /ustanovka_i_nastroika_git__na_windows/
+---
+
 В рамках настоящей инструкции предполагается работа с Git толька на ОС Windows.
 
 1. Работать с Git будем через приложение Git bash. Скачайте программу Git по [ссылке](https://git-scm.com/downloads/win) и установите
