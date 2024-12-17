@@ -21,15 +21,12 @@ permalink: /files/registrazia_na_github/
 
 1. Для создания репозитория нажмите кнопку **Create repository**.
 
-<p align="center">
-  <img src="/images/create_repository.png" />
-</p>
+       ![текст](images/create_repository.png)
 
    Откроется страница создания репозитория *Create a new repository*.
 
-<p align="center">
-  <img src="/images/create_a_new_repository.png" />
-</p>
+       ![текст](images/create_a_new_repository.png)
+
 
 2.   Заполните:
    
@@ -45,6 +42,5 @@ permalink: /files/registrazia_na_github/
 
    Откроется страница созданного репозитория.
 
-<p align="center">
-  <img src="/images/straniza_git_proect.png" />
-</p>
+       ![текст](images/straniza_git_proect.png)
+
