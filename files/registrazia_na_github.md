@@ -6,12 +6,7 @@ permalink: /files/registrazia_na_github/
 ### Создание аккаунта на GitHub
 1. Перейдите по [ссылке](https://github.com/). 
 2. Зарегистрируйте свою учетную запись. В поле для ввода почты введите адрес своей почты и нажмите кнопку **Sign up for GitHub**.
-
-![текст](images/registrazia_github.png)
-
-<p align="center">
-  <img src="images/registrazia_github.png" />
-</p>
+  ![текст](images/registrazia_github.png)
 
 3. В открывшемся окошке подтвердите свою почту с прошлого шага и нажмите кнопку **Continue**.
 4. В открывшемся окошке придумайте и введите пароль.
