@@ -9,9 +9,7 @@ permalink: /files/faq/
    
 ```fatal: not a git repository (or any on the parent directories): .git```
 
-{% alert level="info" %}
-**Решение.** Вернуться в папку репозитория командой `cd programm` (папка *programm* лежит в папке *Git_proect*).
-{% endalert %}
+<u>Решение</u>: вернуться в папку репозитория командой `cd programm` (папка *programm* лежит в папке *Git_proect*).
 
 ### Не задано имя пользователя
 
@@ -32,9 +30,7 @@ fatal: unable to auto-detect email address (got 'User@DESKTOP-CA2F2PA.(none)')'
 
 ```
 
-{% alert level="info" %}
-**Решение.** Настроить имя пользователя и email (см. подраздел [Настройки Git](/primery/files/ustanovka_i_nastroika_git__na_windows/)).
-{% endalert %}
+<u>Решение</u>: настроить имя пользователя и email (см. подраздел **Настройки Git**).
 
 ### Действия, которые могут сломать главную ветку (или иную) необратимо
 
