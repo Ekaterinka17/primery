@@ -1,6 +1,6 @@
 ---
 title: Сценарии работы с Git
-permalink: /szenarii_raboty_s_git/
+permalink: /files/szenarii_raboty_s_git/
 ---
 
 ### Добавление новой инструкции в удаленный репозиторий

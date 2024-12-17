@@ -1,6 +1,6 @@
 ---
 title: Интерфейс VS Code для работы с Git
-permalink: /interfeis_vs_code_dla_raboty_s_gitdows/
+permalink: /files/interfeis_vs_code_dla_raboty_s_git/
 ---
 
 Для работы с локальным репозиторием можно использовать родную командную оболочку Windows — PowerShell или установленную — Git Bash. Однако работать проще, если видишь весь проект целиком. Поэтому в рамках настоящей инструкции рассмотрим работу с Git в приложении VS Code.
@@ -23,7 +23,7 @@ permalink: /interfeis_vs_code_dla_raboty_s_gitdows/
   <img src="/images/terminal_git_bash.png" />
 </p>
 
-Описание команд, выполняемых в терминале *Git Bash*, для работы с локальным репозиторием см. в подразделе [Команды Git для работы в терминале](/primery/files/rabota_s_lokalnum_repozitoriem/) в инструкции [Руководство по Git](https://github.com/Ekaterinka17/primery). В подразделе **Работа c Git через интерфейс VS Code** показаны альтернативные команды Git, которые можно выполнять с помощью функционала VS Code.
+Описание команд, выполняемых в терминале *Git Bash*, для работы с локальным репозиторием см. в подразделе [Команды Git для работы в терминале](/primery/files/rabota_s_lokalnum_repozitoriem/) в инструкции [Руководство по Git](/primery). В подразделе **Работа c Git через интерфейс VS Code** показаны альтернативные команды Git, которые можно выполнять с помощью функционала VS Code.
 
 ## Работа c Git через интерфейс VS Code
 

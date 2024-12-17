@@ -1,6 +1,6 @@
 ---
 title: Регистрация на GitHub
-permalink: /registrazia_na_github/
+permalink: /files/registrazia_na_github/
 ---
 
 ### Создание аккаунта на GitHub

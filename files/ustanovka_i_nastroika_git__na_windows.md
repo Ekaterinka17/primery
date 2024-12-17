@@ -1,12 +1,12 @@
 ---
 title: Установка и настройка Git на Windows (совместно с VS Code)
-permalink: /ustanovka_i_nastroika_git__na_windows/
+permalink: /files/ustanovka_i_nastroika_git__na_windows/
 ---
 
 В рамках настоящей инструкции предполагается работа с Git толька на ОС Windows.
 
 1. Работать с Git будем через приложение Git bash. Скачайте программу Git по [ссылке](https://git-scm.com/downloads/win) и установите
-по [инструкции](https://tproger.ru/articles/ustanovka-git-na-windows). Для удобства работы с файлами .md будем запускать терминал Git bash из редактора кода Visual Studio Code (читать инструкцию [Интерфейс VS Code для работы с Git](/primery/files/interfeis_vs_code_dla_raboty_s_git)).
+по [инструкции](https://tproger.ru/articles/ustanovka-git-na-windows). Для удобства работы с файлами .md будем запускать терминал Git bash из редактора кода Visual Studio Code (читать инструкцию [Интерфейс VS Code для работы с Git](/primery/files/interfeis_vs_code_dla_raboty_s_git/)).
 
 2. Скачайте программу Visual Studio Code по [ссылке](https://code.visualstudio.com/). Установка стандартная.
 
