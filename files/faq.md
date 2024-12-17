@@ -30,7 +30,7 @@ fatal: unable to auto-detect email address (got 'User@DESKTOP-CA2F2PA.(none)')'
 
 ```
 
-<u>Решение</u>: настроить имя пользователя и email (см. подраздел **Настройки Git**).
+<u>Решение</u>: настроить имя пользователя и email (см. подраздел [Настройки Git](/primery/files/ustanovka_i_nastroika_git__na_windows/)).
 
 ### Действия, которые могут сломать главную ветку (или иную) необратимо
 
