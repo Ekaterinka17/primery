@@ -7,6 +7,8 @@ permalink: /files/registrazia_na_github/
 1. Перейдите по [ссылке](https://github.com/). 
 2. Зарегистрируйте свою учетную запись. В поле для ввода почты введите адрес своей почты и нажмите кнопку **Sign up for GitHub**.
 
+![текст](/images/registrazia_github.png)
+
 <p align="center">
   <img src="/images/registrazia_github.png" />
 </p>
