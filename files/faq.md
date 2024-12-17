@@ -1,6 +1,6 @@
 ---
 title: FAQ?
-permalink: /faq/
+permalink: /files/faq/
 ---
 
 ### Ошибка директории

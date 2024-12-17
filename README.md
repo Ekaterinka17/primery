@@ -6,4 +6,4 @@
 4. [Работа с локальным репозиторием](/primery/files/rabota_s_lokalnum_repozitoriem/)
 5. [Работа с удаленным репозиторием](/primery/files/rabota_s_udalenym_repozitoriem/)
 6. [Сценарии работы с Git](/primery/files/szenarii_raboty_s_git/)
-7. [FAQ](/primery/faq/)
+7. [FAQ](/primery/files/faq/)
