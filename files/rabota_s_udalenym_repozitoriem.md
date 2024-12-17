@@ -13,9 +13,7 @@ permalink: /files/rabota_s_udalenym_repozitoriem/
 
 **Первый способ**: с помощью желтого уведомления от GitHub.
 
-<p align="center">
-  <img src="/images/pull_rekvest.png" />
-</p>
+![текст](images/pull_rekvest.png) 
 
 1. Нажимите кнопку **Compare & pull request**.
 
@@ -24,9 +22,7 @@ permalink: /files/rabota_s_udalenym_repozitoriem/
    
 2. Заполните поле **Add a title** и **Add a description**, нажмите кнопку **Create pull request**.
 
-<p align="center">
-  <img src="/images/create_pull_request.png" />
-</p>
+   ![текст](images/create_pull_request.png) 
 
 **Второй способ**: 
 
@@ -34,9 +30,7 @@ permalink: /files/rabota_s_udalenym_repozitoriem/
 2. Нажмите кнопку **New pull request**.
 3. Выберите в поле **base** — *main*, **compare** — ветку, которую хотите мерджить.
 
-<p align="center">
-  <img src="/images/pull_request.png" />
-</p>
+    ![текст](images/pull_request.png) 
 
 4. Нажмите кнопку **Create pull request**.
 
@@ -47,17 +41,13 @@ permalink: /files/rabota_s_udalenym_repozitoriem/
   
    Откроется cтраница слияния веток. 
 
-<p align="center">
-  <img src="/images/merge_git.png" />
-</p>
+   ![текст](images/merge_git.png)
 
 3. Проверьте отсутствие конфликтов (см. подраздел **Конфликты при слиянии веток**). Если конфликтов нет, нажмите кнопку **Merge pull request**.
 4. Подтвердите слияние веток с помощью кнопки **Confirm merdge**.
 
    Откроется страница с уведомлением о слиянии веток. При необходимости можно заполнить блок с комментарием в нижней части страницы и нажать кнопку **Comment**.
 
-<p align="center">
-  <img src="/images/create_comment.png" />
-</p>
+   ![текст](images/create_comment.png)
 
 ### Конфликты при слиянии веток
