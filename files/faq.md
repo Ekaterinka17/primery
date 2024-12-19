@@ -9,7 +9,7 @@ permalink: /files/faq/
    
 ```fatal: not a git repository (or any on the parent directories): .git```
 
-<u>Решение</u>: вернуться в папку репозитория командой `cd programm` (папка *programm* лежит в папке *Git_proect*).
+<u>Решение</u>: вернитесь в папку репозитория командой `cd programm` (папка *programm* лежит в папке *Git_proect*).
 
 ### Не задано имя пользователя
 
@@ -29,8 +29,54 @@ Omit --global to set the identity only in this repository.
 fatal: unable to auto-detect email address (got 'User@DESKTOP-CA2F2PA.(none)')'
 
 ```
+<u>Решение</u>: настройте имя пользователя и email (см. подраздел [Настройки Git](/primery/files/ustanovka_i_nastroika_git__na_windows/)).
 
-<u>Решение</u>: настроить имя пользователя и email (см. подраздел **Настройки Git**).
+### Неправильный коммит (коммит не содержит ожидаемых изменений)
+
+Выполнил команду `git commit -m "обновление4"`, в консоли отобразилось сообщение с ошибкой (пример):
+
+```
+$ git commit -m "обновление4"
+On branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean
+```
+Возможные причины ошибки:
+
+* Файлы не были добавлены в индекс (`git add .`).
+* Были добавлены "не те" файлы (`git add <имя_файла>`).
+
+<u>Решение</u>: 
+
+* Проверьте статус репозитория (`git status`).
+* Добавьте все файлы в индекс (`git add .`).
+* Создайте новый коммит (`git commit -m "обновление5"`).
+
+### Несохраненные изменения при переключении веток
+
+Работал в ветке "vetka1" и без сохранения изменений переключился на ветку "vetka2" с помощью команды `git checkout vetka2`, в консоли отобразилось сообщение с ошибкой (пример):
+
+```
+error: Your local changes to the following files would be overwritten by checkout:
+```
+
+<u>Решение</u>: 
+
+* Сохраните изменения (`git add .`, `git commit -m "Сохранение изменений перед переключением ветки"`).
+
+### Отсутствие доступа к удаленному репозиторию
+
+Выполнил команду `git push -u origin vetka2`, в консоли отобразилось сообщение с ошибкой (пример):
+
+```
+fatal: Could not read from remote repository.
+```
+<u>Решение</u>: 
+
+* Убедитесь, что у вас есть правильные права доступа.
+* Проверьте правильность URL удаленного репозитория.
+* Проверьте настройки SSH или HTTPS (в зависимости от используемого протокола).
 
 ### Действия, которые могут сломать главную ветку (или иную) необратимо
 
