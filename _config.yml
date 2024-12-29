@@ -14,7 +14,7 @@ plugins:
   - jekyll-gfm-admonitions
 
 include:
-  - rabota_s_udalenym_repozitoriem.md
+  - README.md
 exclude:
   - sample/
   - .sass-cache/
