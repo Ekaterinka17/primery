@@ -1,3 +1,5 @@
+source 'https://rubygems.org'
+
 group :jekyll_plugins do
    
    # Other plugins go here ...
