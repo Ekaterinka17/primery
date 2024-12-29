@@ -10,5 +10,7 @@ github_username: Ekaterinka17
 
 # Build settings
 markdown: kramdown
+kramdown:
+ input: GFM
 permalink: /:title:output_ext
 theme: minima
