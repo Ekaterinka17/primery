@@ -65,5 +65,3 @@ permalink: /files/rabota_s_udalenym_repozitoriem/
 >
 
 3. Один исполнитель редактирует файл, а другой — удаляет этот же файл. 
-
-4.
