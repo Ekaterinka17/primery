@@ -4,7 +4,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   В руководстве по Git приведено описание по установке, развертыванию и
   использованию данного инструмента техническим писателем.
 baseurl: "primery" # the subpath of your site, e.g. /blog
-url: "https://Ekaterinka17.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://Ekaterinka17.github.io/primery" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: kettic17
 github_username: Ekaterinka17
   
