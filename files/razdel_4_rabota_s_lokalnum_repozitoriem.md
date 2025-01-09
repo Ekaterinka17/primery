@@ -1,6 +1,6 @@
 ---
 title: Работа с локальным репозиторием
-permalink: /files/rabota_s_lokalnum_repozitoriem/
+permalink: /files/razdel_4_rabota_s_lokalnum_repozitoriem/
 ---
 
 Для работы с локальным репозиторием на ПК должна быть создана соответствующая папка. Существует два способа создания локального репозитория: *клонирование удаленного репозитория* и *инициализация репозитория с нуля*.
@@ -11,7 +11,7 @@ permalink: /files/rabota_s_lokalnum_repozitoriem/
 
 2. Перейдите в созданную папку с помощью команды `cd <путь_к_папке>`, например, `cd C:/Users/edurnykh/Git_proect`.
 
-3. Скопируйте ссылку удаленного репозитория на GitHub в меню **Code**→**Local** (см. рис. 3 в подразделе [Создание удаленного репозитория на GitHub](/primery/files/registrazia_na_github/)) с адресом https, например, https://github.com/Ekaterinka17/primery.git.
+3. Скопируйте ссылку удаленного репозитория на GitHub в меню **Code**→**Local** (см. рис. 3 в подразделе [Создание удаленного репозитория на GitHub](/primery/files/razdel_2_registrazia_na_github/)) с адресом https, например, https://github.com/Ekaterinka17/primery.git.
     
 4. Склонируйте удаленный репозиторий на ПК с помощью команды `git clone <ссылка_на_удаленный_репозиторий>`, вставив ссылку из шага 3. 
 
@@ -41,11 +41,11 @@ permalink: /files/rabota_s_lokalnum_repozitoriem/
 
 Для связки локального Git-репозитория (например, папка **test**) с удаленным репозиторием на GitHub:
 
-1. Перейдите на GitHub и выполните действия, описанные в подразделе [Создание удаленного репозитория на GitHub](/primery/files/registrazia_na_github/) настоящей инструкции. 
+1. Перейдите на GitHub и выполните действия, описанные в подразделе [Создание удаленного репозитория на GitHub](/primery/files/razdel_2_registrazia_na_github/) настоящей инструкции. 
 
 2. Поле **Repository name** заполните имененем локального репозитория (например, **test**), чтобы в будущем избежать путаницы при сопоставлении локальных и удаленных репозиториев.
 
-3. Скопируйте ссылку удаленного репозитория из проекта на GitHub в меню **Code**→**Local** (см. рис. 3 в подразделе [Создание удаленного репозитория на GitHub](/primery/files/registrazia_na_github/)) с адресом https, например, https://github.com/Ekaterinka17/test.git.
+3. Скопируйте ссылку удаленного репозитория из проекта на GitHub в меню **Code**→**Local** (см. рис. 3 в подразделе [Создание удаленного репозитория на GitHub](/primery/files/razdel_2_registrazia_na_github/)) с адресом https, например, https://github.com/Ekaterinka17/test.git.
     
 4. Свяжите локальный репозиторий с удаленным репозиторием с помощью команды `git remote add origin <ссылка_на_удаленный_репозиторий>`, вставив ссылку из шага 3. 
     

@@ -1,6 +1,6 @@
 ---
 title: FAQ
-permalink: /files/faq/
+permalink: /files/razdel_7_faq/
 ---
 
 ### Ошибка директории
@@ -29,7 +29,7 @@ Omit --global to set the identity only in this repository.
 fatal: unable to auto-detect email address (got 'User@DESKTOP-CA2F2PA.(none)')'
 
 ```
-<u>Решение</u>: настройте имя пользователя и email (см. подраздел [Настройки Git](/primery/files/ustanovka_i_nastroika_git__na_windows/)).
+<u>Решение</u>: настройте имя пользователя и email (см. подраздел [Настройки Git](/primery/files/razdel_3_ustanovka_i_nastroika_git__na_windows/)).
 
 ### Неправильный коммит (коммит не содержит ожидаемых изменений)
 
