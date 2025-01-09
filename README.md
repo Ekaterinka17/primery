@@ -1,6 +1,6 @@
 Оглавление:
 
-1. [Что такое Git?](/primery/files/chto_takoe_git/)
+1. [Что такое Git?](/primery/chto_takoe_git/)
 2. [Регистрация на GitHub](/primery/files/registrazia_na_github/)
 3. [Установка и настройка Git на Windows (совместно с VS Code)](/primery/files/ustanovka_i_nastroika_git__na_windows/)
 4. [Работа с локальным репозиторием](/primery/files/rabota_s_lokalnum_repozitoriem/)
