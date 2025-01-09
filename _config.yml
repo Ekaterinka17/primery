@@ -28,5 +28,5 @@ exclude:
   - vendor/gems/
   - vendor/ruby/
   
-permalink: /:title:output_ext
+permalink: /:year/:title:output_ext
 theme: minima
