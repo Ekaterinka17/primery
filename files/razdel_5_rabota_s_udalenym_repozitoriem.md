@@ -75,7 +75,7 @@ permalink: /files/razdel_5_rabota_s_udalenym_repozitoriem/
 
 <h4 id="reshenie_konfliktov_sliania">Решение конфликтов слияния</h4>
 
-1. Если конфликт слияния вызван конкурирующими изменениями строк, например при внесении разных изменений в одну строку одного файла в разных ветках в репозитории Git, его можно _**разрешить на GitHub с помощью редактора конфликтов**_. Для этого:
+1. Если конфликт слияния вызван конкурирующими изменениями строк, например при внесении разных изменений в одну строку одного файла в разных ветках в репозитории Git, его _**решают на GitHub с помощью редактора конфликтов**_.
 
    1.1. Перейдите в раздел **Pull requests** на GitHub (см. шаг 3 подраздела [Запрос на слияние веток (merge pull request)](#zapros_na_sliyanie_vetok_merge_pull_request)).
 
@@ -109,12 +109,38 @@ permalink: /files/razdel_5_rabota_s_udalenym_repozitoriem/
 
    ![текст](images/zapros_na_slianie_bez_konflikta.png)
 
-   1.6. Выполнить шаги 3-4 подраздела [Запрос на слияние веток (merge pull request)](#zapros_na_sliyanie_vetok_merge_pull_request).
+   1.6. Выполните шаги 3-4 подраздела [Запрос на слияние веток (merge pull request)](#zapros_na_sliyanie_vetok_merge_pull_request).
 
-2. Для остальных типов конфликтов слияния необходимо _**разрешить конфликт слияния в локальном репозитории (рекомендуемый способ) с помощью IDE VS Code**_ и отправить изменение в ветку на GitHub. Для этого:
+2. Остальные типы конфликтов слияния _**решают в локальном репозитории (рекомендуемый способ) с помощью IDE VS Code**_ и отправляют изменения в ветку на GitHub.
    
    2.1. Откройте проект в VS Code.
 
    2.2. Откройте конфликтный файл. Помечается в проекте восклицательным знаком.
 
    ![текст](images/konflikt_fail.png)
+
+   Конфликтные изменения выделены красным цветом в зеленом и синем блоке.
+
+   ![текст](images/konflikt_bloki.png)
+
+   2.3. Нажмите на кнопку **Resolve in Merge Editor**.
+
+   Откроется _Merging: file.md_ и предварительный просмотр решения конфликта в блоке _Result file. md_.
+
+   ![текст](images/konflikt_predfreshenie.png)
+
+   2.4. Нажмите на кнопку **Complete Merge**.
+
+   Откроется модальное окно подтверждения слияния.
+
+   ![текст](images/konflikt_reshenie_slianie.png)
+
+   2.5. Нажмите на кнопку **Complete with Conflicts**.
+
+   Закроется _Merging: file.md_, в файле _file. md_ отобразятся принятые изменения, восклицательный знак исчезнет.
+
+   ![текст](images/fail_bez_konflikta.png)
+
+   2.6. Выполните заново все шаги подраздела [Запрос на принятие изменений (pull request)](#zapros_na_prinyatie_izmenenij_pull_request) и [Запрос на слияние веток (merge pull request)](#zapros_na_sliyanie_vetok_merge_pull_request), старый **pull request** удалите. 
+
+
