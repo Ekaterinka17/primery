@@ -5,7 +5,7 @@ permalink: /files/razdel_5_rabota_s_udalenym_repozitoriem/
 
 В рамках проекта все участники процесса клонируют один проект с главной веткой *main*. Однако каждый работает в своей *n-ветке*, созданной отдельно от ветки *main*. После отправки изменений в удаленный репозиторий (команда `git push -u origin <vetka>`) принято подтягивать содержимое *n-ветки* в ветку *main* (см. подраздел [Запрос на принятие изменений (pull request)](#zapros_na_prinyatie_izmenenij_pull_request)), а затем сливать данные изменения (см. подраздел [Запрос на слияние веток (merge pull request)](#zapros_na_sliyanie_vetok_merge_pull_request)). 
 
-Исполнитель по задаче создает **pull request**, а лид — сливает изменения **merge pull request**, проверяя отсутствие конфликтов (см. подразде [Конфликты при слиянии веток](#konflikty_pri_sliyanii_vetok)).
+Исполнитель по задаче создает **pull request**, а лид — сливает изменения **merge pull request**, проверяя отсутствие конфликтов (см. подраздел [Конфликты при слиянии веток](#konflikty_pri_sliyanii_vetok)).
 
 <h3 id="zapros_na_prinyatie_izmenenij_pull_request">Запрос на принятие изменений (pull request)</h3>
 
