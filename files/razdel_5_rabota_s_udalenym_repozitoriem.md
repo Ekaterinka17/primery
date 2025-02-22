@@ -43,7 +43,7 @@ permalink: /files/razdel_5_rabota_s_udalenym_repozitoriem/
 
    ![текст](images/merge_git.png)
 
-3. Проверьте отсутствие конфликтов (см. подраздел [Конфликты при слиянии веток](#konflikty_pri_sliyanii_vetok)). Если конфликтов нет, нажмите кнопку **Merge pull request**.
+3. Проверьте отсутствие конфликтов (см. подраздел [Конфликты при слиянии веток](#konflikty_pri_sliyanii_vetok)). Если конфликтов нет, то нажмите кнопку **Merge pull request**.
 4. Подтвердите слияние веток с помощью кнопки **Confirm merdge**.
 
    Откроется страница с уведомлением о слиянии веток.
