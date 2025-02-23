@@ -15,7 +15,7 @@ permalink: /files/razdel_5_rabota_s_udalenym_repozitoriem/
 
 ![текст](images/pull_rekvest.png) 
 
-1. Нажимите кнопку **Compare & pull request**.
+1. Нажмите кнопку **Compare & pull request**.
 
 
    Откроется страница **Open a pull request**.  
