@@ -1,6 +1,6 @@
 ---
 title: FAQ
-permalink: /files/razdel_7_faq/
+permalink: /files/razdel_8_faq/
 ---
 
 ### Ошибка директории
