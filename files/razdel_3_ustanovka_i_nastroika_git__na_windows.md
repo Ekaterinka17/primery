@@ -3,12 +3,18 @@ title: Установка и настройка Git на Windows (совмест
 permalink: /files/razdel_3_ustanovka_i_nastroika_git__na_windows/
 ---
 
-В рамках настоящей инструкции предполагается работа с Git толька на ОС Windows.
+Чтобы работать с Git через приложение Git bash:
 
-1. Работать с Git будем через приложение Git bash. Скачайте программу Git по [ссылке](https://git-scm.com/downloads/win) и установите
-по [инструкции](https://tproger.ru/articles/ustanovka-git-na-windows). Для удобства работы с файлами .md будем запускать терминал Git bash из редактора кода Visual Studio Code (читать инструкцию [Интерфейс VS Code для работы с Git](https://app.gram.ax/github.com/Ekaterinka17/baza-znaniy/master/-/instrumenti/interfeys-vs-code-dlya-raboty-s-git/interfeys-vs-code-dlya-raboty-s-git)).
+1. Скачайте программу Git по [ссылке](https://git-scm.com/downloads/win).
 
-2. Скачайте программу Visual Studio Code по [ссылке](https://code.visualstudio.com/). Установка стандартная.
+2. Установите Git по [инструкции](https://tproger.ru/articles/ustanovka-git-na-windows).
+
+Чтобы работать с Git и терминалом Git bash через приложение VS Code:
+
+1. Скачайте программу VS Code по [ссылке](https://code.visualstudio.com/). Установка стандартная.
+
+2. Руководствуйтесь инструкцией [Интерфейс VS Code для работы с Git](https://ekaterinka17.github.io/mkdocs-example/).
+
 
 ### Настройки Git
 Чтобы Git понимал, кто вносит изменения в удаленный репозиторий, необходима настройка (на уровне пользователя). Без нее Git работать не будет (см. подраздел [FAQ](/primery/files/razdel_8_faq/)).
