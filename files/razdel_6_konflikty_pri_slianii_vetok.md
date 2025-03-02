@@ -37,7 +37,7 @@ permalink: /files/razdel_6_konflikty_pri_slianii_vetok/
 
    ![текст](images/uvedomlenie_o_konflikte.png)
 
-2. Нажмите на кнопку **Resolve conflicts**.
+2. Нажмите кнопку **Resolve conflicts**.
 
    Откроется редактор конфликтов.
 
@@ -51,13 +51,13 @@ permalink: /files/razdel_6_konflikty_pri_slianii_vetok/
 
    ![текст](images/reshenie_konflikta.png)
 
-4. Нажмите на кнопку **Mark as resolved**.
+4. Нажмите кнопку **Mark as resolved**.
    
    Если конфликт устранен, то напротив файла отобразится зеленная галочка.
 
    ![текст](images/konflikt_reshen.png)
 
-5. Нажмите на кнопку **Commit merge**.
+5. Нажмите кнопку **Commit merge**.
 
    Откроется cтраница слияния веток.
 
@@ -77,19 +77,19 @@ permalink: /files/razdel_6_konflikty_pri_slianii_vetok/
 
    ![текст](images/konflikt_bloki.png)
 
-3. Нажмите на кнопку **Resolve in Merge Editor**.
+3. Нажмите кнопку **Resolve in Merge Editor**.
 
    Откроется _Merging: file.md_ и предварительный просмотр решения конфликта в блоке _Result file. md_.
 
    ![текст](images/konflikt_predfreshenie.png)
 
-4. Нажмите на кнопку **Complete Merge**.
+4. Нажмите кнопку **Complete Merge**.
 
    Откроется модальное окно подтверждения слияния.
 
    ![текст](images/konflikt_reshenie_slianie.png)
 
-5. Нажмите на кнопку **Complete with Conflicts**.
+5. Нажмите кнопку **Complete with Conflicts**.
 
    Закроется _Merging: file.md_, в файле _file. md_ отобразятся принятые изменения, восклицательный знак исчезнет.
 
