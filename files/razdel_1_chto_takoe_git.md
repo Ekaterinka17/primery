@@ -1,5 +1,5 @@
 ---
-title: Что такое Git?
+title: Что такое Git
 permalink: /files/razdel_1_chto_takoe_git/
 ---
 
