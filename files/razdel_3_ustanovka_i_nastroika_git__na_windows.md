@@ -3,15 +3,15 @@ title: Установка и настройка Git на Windows (совмест
 permalink: /files/razdel_3_ustanovka_i_nastroika_git__na_windows/
 ---
 
-Чтобы работать с Git через приложение Git bash:
+Чтобы работать с Git через приложение Git Bash:
 
 1. Скачайте программу Git по [ссылке](https://git-scm.com/downloads/win).
 
 2. Установите Git по [инструкции](https://tproger.ru/articles/ustanovka-git-na-windows).
 
-Чтобы работать с Git и терминалом Git bash через приложение VS Code:
+Чтобы работать с Git и терминалом Git Bash через приложение VS Code:
 
-1. Скачайте программу VS Code по [ссылке](https://code.visualstudio.com/). Установка стандартная.
+1. Скачайте программу VS Code по [ссылке](https://code.visualstudio.com/).
 
 2. Руководствуйтесь инструкцией [Интерфейс VS Code для работы с Git](https://ekaterinka17.github.io/mkdocs-example/).
 
@@ -23,6 +23,6 @@ permalink: /files/razdel_3_ustanovka_i_nastroika_git__na_windows/
 
 Выполните глобальную настройку для всех репозиториев на ПК:
 
-1. Откройте терминал Git bash.
+1. Откройте терминал Git Bash.
 2. Введите команду `git config --global user.name "<ваше_имя>"`.
 3. Введите команду `git config --global user.email "<адрес_почты@email.com>"`. 
