@@ -13,7 +13,7 @@ permalink: /files/razdel_3_ustanovka_i_nastroika_git__na_windows/
 
 1. Скачайте программу VS Code по [ссылке code.visualstudio.com](https://code.visualstudio.com/).
 
-2. Руководствуйтесь [инструкцией] (https://ekaterinka17.github.io/mkdocs-example/).
+2. Руководствуйтесь [инструкцией](https://ekaterinka17.github.io/mkdocs-example/).
 
 
 ### Настройки Git
