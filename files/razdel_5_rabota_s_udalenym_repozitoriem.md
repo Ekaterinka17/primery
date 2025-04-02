@@ -49,5 +49,5 @@ permalink: /files/razdel_5_rabota_s_udalenym_repozitoriem/
 
    ![текст](images/create_comment.png)
 
-5. При необходимости заполните блок с комментарием **Add a comment** и нажмите кнопку **Comment**.
+5. Заполните блок с комментарием **Add a comment** (при необходимости) и нажмите кнопку **Comment**.
 
