@@ -17,7 +17,6 @@ permalink: /files/razdel_5_rabota_s_udalenym_repozitoriem/
 
 1. Нажмите кнопку **Compare & pull request**.
 
-
    Откроется страница **Open a pull request**.  
    
 2. Заполните поле **Add a title** и **Add a description**, нажмите кнопку **Create pull request**.

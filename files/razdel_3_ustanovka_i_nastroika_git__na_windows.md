@@ -5,15 +5,15 @@ permalink: /files/razdel_3_ustanovka_i_nastroika_git__na_windows/
 
 Чтобы работать с Git через приложение Git Bash:
 
-1. Скачайте программу Git по [ссылке](https://git-scm.com/downloads/win).
+1. Скачайте программу Git по [ссылке git-scm.com/downloads/win](https://git-scm.com/downloads/win).
 
 2. Установите Git по [инструкции](https://tproger.ru/articles/ustanovka-git-na-windows).
 
 Чтобы работать с Git и терминалом Git Bash через приложение VS Code:
 
-1. Скачайте программу VS Code по [ссылке](https://code.visualstudio.com/).
+1. Скачайте программу VS Code по [ссылке code.visualstudio.com](https://code.visualstudio.com/).
 
-2. Руководствуйтесь инструкцией [Интерфейс VS Code для работы с Git](https://ekaterinka17.github.io/mkdocs-example/).
+2. Руководствуйтесь [инструкцией] (https://ekaterinka17.github.io/mkdocs-example/).
 
 
 ### Настройки Git
