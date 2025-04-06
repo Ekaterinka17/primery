@@ -29,7 +29,7 @@ Omit --global to set the identity only in this repository.
 fatal: unable to auto-detect email address (got 'User@DESKTOP-CA2F2PA.(none)')'
 
 ```
-<u>Решение</u>: настройте имя пользователя и email (см. подраздел [Установка и настройка Git на Windows (совместно с VS Code)](/primery/files/razdel_3_ustanovka_i_nastroika_git__na_windows/)).
+<u>Решение</u>: настройте имя пользователя и email (см. подраздел [Установка и настройка Git на Windows](/primery/files/razdel_3_ustanovka_i_nastroika_git__na_windows/)).
 
 ### Что делать при отсутствии изменений в коммите?
 
