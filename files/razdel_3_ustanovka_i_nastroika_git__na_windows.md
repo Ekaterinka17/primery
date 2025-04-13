@@ -24,5 +24,5 @@ permalink: /files/razdel_3_ustanovka_i_nastroika_git__na_windows/
 Выполните глобальную настройку для всех репозиториев на ПК:
 
 1. Откройте терминал Git Bash.
-2. Введите команду `git config --global user.name "<ваше_имя>"`.
-3. Введите команду `git config --global user.email "<адрес_почты@email.com>"`. 
+2. Выполните команду `git config --global user.name "<ваше_имя>"`.
+3. Выполните команду `git config --global user.email "<адрес_почты@email.com>"`. 
