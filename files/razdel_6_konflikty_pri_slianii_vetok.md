@@ -85,9 +85,11 @@ permalink: /files/razdel_6_konflikty_pri_slianii_vetok/
 
 3. Нажмите кнопку **Resolve in Merge Editor**.
 
-   Откроется _Merging: file.md_ и редактор слияния в блоке _Result file. md_ с предварительным просмотром решения конфликта.
+   Откроется _Merging: file.md_ или редактор слияния. В блоке _Result_ отобразится предварительный просмотр решения конфликта.
 
    ![текст](images/konflikt_predfreshenie.png)
+
+   Достаточно проверить блок _Result_, внести окончательные правки перед слиянием.
 
 4. Нажмите кнопку **Complete Merge**.
 
@@ -99,6 +101,14 @@ permalink: /files/razdel_6_konflikty_pri_slianii_vetok/
 
    ![текст](images/fail_bez_konflikta.png)
 
-6. Выполните заново все шаги подраздела [Запрос на принятие изменений (pull request)](/primery/files/razdel_5_rabota_s_udalenym_repozitoriem/) и [Запрос на слияние веток (merge pull request)](/primery/files/razdel_5_rabota_s_udalenym_repozitoriem/), старый **pull request** удалите. 
+6. Перейдите в терминал Git Bash и выполните последовательно команды:
+
+   6.1. `git add .`.
+   
+   6.2. `git commit -m "merge branch"`.
+
+   6.3. `git push -u origin test_vetka2`.
+
+7. Выполните заново все шаги подраздела [Запрос на принятие изменений (pull request)](/primery/files/razdel_5_rabota_s_udalenym_repozitoriem/) и [Запрос на слияние веток (merge pull request)](/primery/files/razdel_5_rabota_s_udalenym_repozitoriem/). 
 
 
