@@ -11,7 +11,7 @@ permalink: /files/razdel_3_ustanovka_i_nastroika_git__na_windows/
 
 Чтобы работать с Git и терминалом Git Bash через приложение VS Code:
 
-1. Скачайте программу VS Code по [ссылке code.visualstudio.com](https://code.visualstudio.com/).
+1. Скачайте приложение VS Code по [ссылке code.visualstudio.com](https://code.visualstudio.com/).
 
 2. Руководствуйтесь [инструкцией](https://ekaterinka17.github.io/mkdocs-example/).
 
@@ -23,6 +23,6 @@ permalink: /files/razdel_3_ustanovka_i_nastroika_git__na_windows/
 
 Выполните глобальную настройку для всех репозиториев на ПК:
 
-1. Откройте терминал Git Bash.
+1. Откройте приложение Git Bash.
 2. Выполните команду `git config --global user.name "<ваше_имя>"`.
 3. Выполните команду `git config --global user.email "<адрес_почты@email.com>"`. 
