@@ -3,12 +3,12 @@ title: Работа с удаленным репозиторием
 permalink: /files/razdel_5_rabota_s_udalenym_repozitoriem/
 ---
 
-В рамках проекта все участники процесса клонируют один проект с главной веткой *main*. Но каждый работает в своей *n-ветке*, созданной от ветки *main*. После отправки изменений в удаленный репозиторий (команда `git push -u origin <vetka>`) принято:
+Участники процесса клонируют один проект с главной веткой *main*, но каждый работает в отдельной *n-ветке*. После выполнения команды `git push -u origin <vetka>` принято:
 
 1. Подтягивать содержимое *n-ветки* в ветку *main* (см. подраздел [Запрос на принятие изменений (pull request)](#zapros_na_prinyatie_izmenenij_pull_request)).
 2. Сливать изменения (см. подраздел [Запрос на слияние веток (merge pull request)](#zapros_na_sliyanie_vetok_merge_pull_request)). 
 
-Исполнитель по задаче создает **pull request**, а Лид — сливает изменения **merge pull request**, проверяя отсутствие конфликтов (см. подраздел [Конфликты при слиянии веток](/primery/files/razdel_6_konflikty_pri_slianii_vetok/)).
+Исполнитель по задаче создает **pull request**. Лид сливает изменения **merge pull request** и проверяет отсутствие конфликтов (см. подраздел [Конфликты при слиянии веток](/primery/files/razdel_6_konflikty_pri_slianii_vetok/)).
 
 <h3 id="zapros_na_prinyatie_izmenenij_pull_request">Запрос на принятие изменений (pull request)</h3>
 
